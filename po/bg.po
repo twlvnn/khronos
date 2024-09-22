@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# twlvnn kraftwerk <kraft_werk@tutanota.com>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: khronos\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-29 16:03+0300\n"
+"PO-Revision-Date: 2024-09-22 19:09+0200\n"
+"Last-Translator: twlvnn kraftwerk <kraft_werk@tutanota.com>\n"
+"Language-Team: Bulgarian <dict-notifications@fsa-bg.org>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: Gtranslator 46.1\n"
+
+#: data/io.github.lainsce.Khronos.metainfo.xml.in:7
+msgid "Log the time it took to do tasks"
+msgstr "Запишете времето за изпълняването на задачи"
+
+#: data/io.github.lainsce.Khronos.metainfo.xml.in:9
+msgid ""
+"Start logging any task's time to completion, with the ability to stop the "
+"timer at any moment, with notifications for longer task sessions."
+msgstr ""
+"Започнете да записвате времето до завършването на всяка задача с възможност "
+"за спиране на таймера във всеки един момент, с известия за по—дълги сесии на "
+"задачите."
+
+#: data/io.github.lainsce.Khronos.metainfo.xml.in:11
+msgid "Quit anytime with the shortcut Ctrl + Q"
+msgstr "Спрете програмата по всяко време с клавишната комбинация Ctrl + Q"
+
+#: data/io.github.lainsce.Khronos.metainfo.xml.in:20
+msgid "Plot"
+msgstr "Начертаване"
+
+#: data/io.github.lainsce.Khronos.metainfo.xml.in:21
+msgid "Planning"
+msgstr "Планиране"
+
+#: data/io.github.lainsce.Khronos.metainfo.xml.in:22
+msgid "Time Tracking"
+msgstr "Следене на времето"
+
+#: data/io.github.lainsce.Khronos.metainfo.xml.in:59
+msgid "Release: Day 2"
+msgstr "Издание: Ден 2"
+
+#: data/io.github.lainsce.Khronos.metainfo.xml.in:61
+msgid "Changed: Overall refinements to match the updated looks of GNOME apps."
+msgstr ""
+"Променено: Цялостно усъвършенстване, за да съответства на обновения външен "
+"вид на програмите на GNOME."
+
+#: data/io.github.lainsce.Khronos.desktop.in:3
+msgid "Khronos"
+msgstr "Khronos"
+
+#: data/io.github.lainsce.Khronos.desktop.in:4
+msgid "Track each task time in a simple inobtrusive way"
+msgstr "Следете времето на всяка задача по прост и ненатрапчив начин"
+
+#: data/io.github.lainsce.Khronos.desktop.in:7
+msgid "Plot;Planning;Time Tracking;"
+msgstr "Начертаване;Планиране;Следене на време;"
+
+#: data/io.github.lainsce.Khronos.gschema.xml:5
+msgid "Migration Version"
+msgstr "Версия за миграцията"
+
+#: data/io.github.lainsce.Khronos.gschema.xml:6
+msgid "The version of migration to use; Do not change."
+msgstr "Версията на миграцията, която да се използва; Не променяйте."
+
+#: data/io.github.lainsce.Khronos.gschema.xml:10
+msgid "Delay between notifications"
+msgstr "Закъснение между известията"
+
+#: data/io.github.lainsce.Khronos.gschema.xml:11
+msgid "The delay between two notifications, default is 30min. in seconds."
+msgstr "Закъснението между две известия, стандартно е 30 мин., в секунди."
+
+#: data/ui/main_window.ui:6
+msgid "Export Logs as CSV…"
+msgstr "Изнасяне на журналите като CSV…"
+
+#: data/ui/main_window.ui:10
+msgid "Import Logs from CSV…"
+msgstr "Внасяне на журналите от CSV…"
+
+#: data/ui/main_window.ui:16
+msgid "About Khronos"
+msgstr "Относно „Khronos“"
+
+#: data/ui/main_window.ui:58
+msgid "• events"
+msgstr "• събития"
+
+#: data/ui/main_window.ui:70
+msgid "Timer"
+msgstr "Таймер"
+
+#: data/ui/main_window.ui:94
+msgid "Log name…"
+msgstr "Име на журнала…"
+
+#: data/ui/main_window.ui:102
+msgid "Tags (split by colons)…"
+msgstr "Етикети (разделени с двоеточие)…"
+
+#: data/ui/main_window.ui:144
+msgid "Logs"
+msgstr "Журнали"
+
+#: data/ui/main_window.ui:195 src/MainWindow.vala:191 src/MainWindow.vala:205
+msgid "Starts the timer for a log"
+msgstr "Стартиране на таймера за журнала"
+
+#: data/ui/main_window.ui:209
+msgid "Stops the timer for a log"
+msgstr "Спиране на таймера за журнала"
+
+#: data/ui/main_window.ui:220
+msgid "Resets the timer"
+msgstr "Нулиране на таймера"
+
+#: data/ui/main_window.ui:231
+msgid "Adds a log to the list"
+msgstr "Добавяне на журнала към списъка"
+
+#: data/ui/main_window.ui:248
+msgid "Cleans the logs list"
+msgstr "Изчистване на списъка с журнали"
+
+#: src/MainWindow.vala:142 src/MainWindow.vala:235 src/MainWindow.vala:303
+#: src/MainWindow.vala:317
+msgid "events"
+msgstr "събития"
+
+#: src/MainWindow.vala:157
+msgid "Pauses the timer for a log"
+msgstr "Спиране на пауза таймера за журнала"
+
+#: src/MainWindow.vala:359
+msgid "translator-credits"
+msgstr "twlvnn kraftwerk <kraft_werk@tutanota.com>"
+
+#: src/MainWindow.vala:450
+msgid "Go rest for a while before continuing."
+msgstr "Починете си за малко, преди да продължите."
+
+#: src/MainWindow.vala:459
+msgid "Maybe grab a snack before continuing."
+msgstr "Може да вземете снакс, преди да продължите."
+
+#: src/MainWindow.vala:468
+msgid "Perhaps go get some coffee or tea before continuing."
+msgstr "Преди да продължите, може да си пиете кафе или чай."
+
+#: src/MainWindow.vala:477
+msgid "That's a big task. Let's rest a bit before continuing."
+msgstr "Това е голяма задача. Нека си починем малко, преди да продължим."
+
+#: src/MainWindow.vala:486
+msgid "Amazing work! But please rest a bit before continuing."
+msgstr "Добра работа! Но си починете малко, преди да продължите."
+
+#: src/Services/Dialog.vala:23 src/Services/Dialog.vala:44
+msgid "CSV files"
+msgstr "CSV файлове"
+
+#: src/Services/Dialog.vala:27 src/Services/Dialog.vala:48
+msgid "All files"
+msgstr "Всички файлове"
+
+#: src/ViewModels/LogViewModel.vala:50
+msgid "Clear Logs?"
+msgstr "Дали да се изчистят журналите?"
+
+#: src/ViewModels/LogViewModel.vala:51
+msgid "Clearing means the logs here will be permanently lost with no recovery."
+msgstr ""
+"Изчистването означава, че журналите тук ще бъдат изгубени без възможност за "
+"възстановяване."
+
+#: src/ViewModels/LogViewModel.vala:52
+msgid "Cancel"
+msgstr "Отказване"
+
+#: src/ViewModels/LogViewModel.vala:53
+msgid "Clear"
+msgstr "Изчистване"
